@@ -1,0 +1,17 @@
+# OS cruft
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Working files that should not ship with the site
+*.3dm
+*.3dmbak
+*.psd
+*.indd
+*.rvt
